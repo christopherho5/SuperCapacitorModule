@@ -1,8 +1,8 @@
 # SuperCapacitorModule
-Highlights of this project includes: /br
-Series capacitor stack (8 total) /br
-Capacitor balancing using MOSFET ICs /br
-Protection using crowbar circuit /br
+Highlights of this project includes: <br>
+Series capacitor stack (8 total) <br>
+Capacitor balancing using MOSFET ICs <br>
+Protection using crowbar circuit <br>
 
 Documentation will be updated soon.
 ![image](https://user-images.githubusercontent.com/128961461/231567681-e619fb4f-e5d9-4b25-bfa1-501aeec791af.png)
