@@ -1,8 +1,8 @@
 # SuperCapacitorModule
 Highlights of this project includes: <br>
 Series capacitor stack (8 total) <br>
-High speed charging (~15V)
-Reverse flow protection (backfeeding)
+High speed charging (~15V) <br>
+Reverse flow protection (backfeeding) <br>
 Capacitor balancing using MOSFET ICs <br>
 Protection using crowbar circuit and breaker<br>
 
