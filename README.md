@@ -11,6 +11,8 @@ Controlled charge and discharge cycles<br>
 2002J of potential energy<br>
 PCB layout via Altium ECAD<br>
 
+Full indepth documentation can be found here: (Still in the works!)
+https://docs.google.com/document/d/10xSz2Brdb20Teefaufs0sfIVZrpAqIFKbtMyl3yj6dg/edit?usp=sharing
 ----------------------------------------------------------------------------------------------------------------------------
 
 PCB Top layer
