@@ -15,16 +15,15 @@ Full indepth documentation can be found here: (Still in the works!)
 https://docs.google.com/document/d/10xSz2Brdb20Teefaufs0sfIVZrpAqIFKbtMyl3yj6dg/edit?usp=sharing
 ----------------------------------------------------------------------------------------------------------------------------
 
-PCB Top layer
-![image](https://user-images.githubusercontent.com/128961461/233820372-0ca23342-6b0a-4872-86c3-4343f8131f75.png)
 PCB Bottom Layer
-![image](https://user-images.githubusercontent.com/128961461/233820380-72af80f9-a4b3-40d3-9994-e9284fa480d5.png)
+![image](https://github.com/christopherho5/SuperCapacitorModule/assets/128961461/b0ee9331-4d2f-4899-9f22-27eb8e8b4206)
 PCB Top 3D Model
-![image](https://user-images.githubusercontent.com/128961461/233820430-cbbcce8d-834b-4bf3-86d9-546e3c6c2940.png)
+![image](https://github.com/christopherho5/SuperCapacitorModule/assets/128961461/578b8858-64b1-492e-9f33-f50864065238)
 PCB Bottom 3D Model
-![image](https://user-images.githubusercontent.com/128961461/233820490-9b9225b3-bf25-4b77-aa25-5c21956c0380.png)
+![image](https://github.com/christopherho5/SuperCapacitorModule/assets/128961461/73bf29f8-10e2-407b-9bc0-5f6eec09f08c)
 PCB Schematic
-![image](https://user-images.githubusercontent.com/128961461/233820252-70ca1fc1-2e23-4b81-a1ba-4d140331adfa.png)
+![image](https://github.com/christopherho5/SuperCapacitorModule/assets/128961461/6fcefa11-c09e-4357-ab81-0fc192823e7c)
+
 
 
 
